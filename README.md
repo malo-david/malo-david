@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub Profile 👋
+👋 Welcome to my GitHub profile 👋
 
 I am Malo DAVID, a second-year student at ENSAE specializing in Finance, Risk & Data. With a strong passion for applied mathematics and quantitative problem-solving, I'm particularly interested in financial markets, data analysis, and quantitative finance.
 
@@ -19,12 +19,12 @@ PY-Swap-Puzzle-Solver: A project demonstrating collaboration skills in order to 
 
 SAS-Profession-Impact-On-Happiness: A data analysis on the way the profession of oneself/partner affects hapiness significatively.
 
-
-
 📫 How to Reach Me 📫
 
 Email: malo.david@ensae.fr
+
 LinkedIn: https://www.linkedin.com/in/malo-d-4548201b4/
+
 Thank you for visiting my GitHub profile. Feel free to explore my projects and reach out if you have any questions or would like to connect!
 
 <!---
