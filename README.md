@@ -6,8 +6,6 @@ I am Malo DAVID, a second-year student at ENSAE specializing in Finance, Risk & 
 
 My goal is to develop advanced quantitative models and gain expertise in financial data analysis, ideally through an internship in quantitative finance or structured products.
 
-In addition to my academic background, I am working on personal projects that apply mathematical and programming skills to real-world financial problems.
-
 🔧 Skills 🔧
 
 Programming Languages: Python, R, SQL, C++
@@ -17,14 +15,15 @@ Tools: Git, Jupyter Notebooks,NumPy
 
 📂 Featured Projects 📂
 
-Swap Puzzle
-Description: A project demonstrating collaboration skills in order to implement a game using classical solving algorithms.
-Tech stack: Python, NumPy
+PY-Swap-Puzzle-Solver
+
+A project demonstrating collaboration skills in order to implement a game using classical solving algorithms (BFS, A*) and a graphical interface for users.
+
+SAS-Profession-Impact-On-Happiness
+
+A data analysis on the way the profession of oneself/partner affects hapiness significatively.
 
 
-🌱 What I’m Currently Learning 🌱
-
-Econometrics I, Microeconomics I, Macroeconomics I, Stochastic processes, Financial Mathematics, C++.
 
 📫 How to Reach Me 📫
 
