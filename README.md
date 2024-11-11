@@ -15,13 +15,9 @@ Tools: Git, Jupyter Notebooks,NumPy
 
 📂 Featured Projects 📂
 
-PY-Swap-Puzzle-Solver
+PY-Swap-Puzzle-Solver: A project demonstrating collaboration skills in order to implement a game using classical solving algorithms (BFS, A*) and a graphical interface for users.
 
-A project demonstrating collaboration skills in order to implement a game using classical solving algorithms (BFS, A*) and a graphical interface for users.
-
-SAS-Profession-Impact-On-Happiness
-
-A data analysis on the way the profession of oneself/partner affects hapiness significatively.
+SAS-Profession-Impact-On-Happiness: A data analysis on the way the profession of oneself/partner affects hapiness significatively.
 
 
 
