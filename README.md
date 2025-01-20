@@ -7,7 +7,10 @@ Data Analysis & Modeling: Time series analysis, regression models, machine learn
 Quantitative Finance: Derivative pricing, risk modeling, portfolio optimization
 Tools: Git, Jupyter Notebooks, NumPy
 
+CPP-Pricing-Using-EDP : A pricing tool of European options using Black-Scholes model.
+
 PY-Swap-Puzzle-Solver: A project demonstrating collaboration skills in order to implement a game using classical solving algorithms (BFS, A*) and a graphical interface for users.
+
 SAS-Profession-Impact-On-Happiness: A data analysis on the way the profession of oneself/partner affects hapiness significatively.
 
 Email: malo.david@ensae.fr
