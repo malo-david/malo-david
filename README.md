@@ -1,4 +1,4 @@
-I'm a second-year student at ENSAE specializing in Finance, Risk & Data. 
+I'm a final year student at ENSAE specializing in Finance, Risk & Data. 
 I'm particularly interested in financial markets, data analysis, and quantitative finance.
 Currently looking for an internship in quantitative finance or structured products.
 
