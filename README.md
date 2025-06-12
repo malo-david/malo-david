@@ -3,9 +3,9 @@ I'm particularly interested in financial markets, data analysis, and quantitativ
 Currently looking for an internship in quantitative finance or structured products.
 
 Programming Languages: Python, R, C++.
-Data Analysis & Modeling: Time series analysis, regression models, machine learning, CNN
-Quantitative Finance: Derivative pricing, risk modeling, portfolio optimization
-Tools: Git, Jupyter Notebooks, NumPy
+Data Analysis & Modeling: Time series analysis, regression models, machine learning, CNN.
+Quantitative Finance: Derivative pricing, risk modeling, portfolio optimization.
+Tools: Git, Jupyter Notebooks, NumPy.
 
 CPP-Pricing-Using-EDP: A pricing tool of European options using Black-Scholes model. Going to be extended to exotic/american options.
 
