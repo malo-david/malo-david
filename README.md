@@ -1,18 +1,34 @@
-I'm a final year student at ENSAE specializing in Finance, Risk & Data. 
-I'm particularly interested in financial markets, data analysis, and quantitative finance.
-Currently looking for an internship in quantitative finance or structured products.
+## About Me
 
-Programming Languages: Python, R, C++.
-Data Analysis & Modeling: Time series analysis, regression models, machine learning, CNN.
-Quantitative Finance: Derivative pricing, risk modeling, portfolio optimization.
-Tools: Git, Jupyter Notebooks, NumPy.
+I’m a final-year student at ENSAE Paris (Institut Polytechnique de Paris), specializing in Finance, Risk & Data.
+My academic and project work combine stochastic calculus, econometrics, and numerical methods with experience in derivative pricing, risk modeling, and quantitative/machine learning–based portfolio optimization.
 
-CPP-Pricing-Using-EDP: A pricing tool of European options using Black-Scholes model. Going to be extended to exotic/american options.
+Currently, I am conducting a research project at CMAP - École Polytechnique, developing a new stochastic model for integrated variance to generalize the Heston framework, using SPX and VIX data for volatility modeling, pricing, and calibration.
 
-PY-PriceTracker: A scraping tool for market inflation evaluation purposes.
+I am actively seeking a quantitative finance or structured products internship where I can apply rigorous mathematical frameworks and high-performance code to tackle real-world financial challenges.
 
-PY-Swap-Puzzle-Solver: A project demonstrating collaboration skills in order to implement a game using classical solving algorithms (BFS, A*) and a graphical interface for users.
+## Technical Skills
 
-SAS-Profession-Impact-On-Happiness: A data analysis on the way the profession of oneself/partner affects hapiness significatively.
+**Programming**: Python, R, C++, SQL
+
+**Quantitative Finance**: Derivative pricing & hedging, stochastic volatility modeling, Levy and GARCH processes, risk management, portfolio optimization
+
+**Machine Learning**: Regression, time series forecasting, CNNs, non-linear prediction
+
+**Tools**: Git, Jupyter, NumPy, SciPy, Pandas, scikit-learn, PyTorch, Matplotlib
+
+## Selected Projects
+
+**CPP–Pricing-Using-EDP**: Pricing tool for European options under the Black–Scholes PDE, designed for future extension to American and exotic derivatives with numerical schemes (FD, Monte Carlo).
+
+**PY–PriceTracker**: Web scraping and data analysis tool to estimate market inflation dynamics based on real-time price data.
+
+**PY–Swap-Puzzle-Solver**: Collaborative algorithmic project implementing BFS and A* search with a GUI to solve logical puzzles efficiently.
+
+**SAS–Profession-Impact-On-Happiness**: Econometric analysis on how profession and partner’s occupation influence happiness levels, using regression modeling and statistical inference.
+
+## Contact
 
 Email: malo.david@ensae.fr
+
+LinkedIn: linkedin.com/in/malo-david
