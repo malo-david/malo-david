@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a final-year student at ENSAE Paris (Institut Polytechnique de Paris), specializing in Finance, Risk & Data.
+Final-year student at ENSAE Paris (Institut Polytechnique de Paris), specializing in Finance, Risks & Data.
 My academic and project work combine stochastic calculus, econometrics, and numerical methods with experience in derivative pricing, risk modeling, and quantitative/machine learning–based portfolio optimization.
 
 Currently, I am conducting a research project at CMAP - École Polytechnique, developing a new stochastic model for integrated variance to generalize the Heston framework, using SPX and VIX data for volatility modeling, pricing, and calibration.
