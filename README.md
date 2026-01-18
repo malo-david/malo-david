@@ -19,6 +19,8 @@ I am actively seeking a quantitative finance or structured products internship w
 
 ## Selected Projects
 
+**NMF**: Research project focusing on the implementation of NMF (Non-negative Matrix Factorization) and Deep NMF and the study of their implicit regularization (low rank bias).
+
 **CPP–Pricing-Using-EDP**: Pricing tool for European options under the Black–Scholes PDE, designed for future extension to American and exotic derivatives with numerical schemes (FD, Monte Carlo).
 
 **PY–PriceTracker**: Web scraping and data analysis tool to estimate market inflation dynamics based on real-time price data.
